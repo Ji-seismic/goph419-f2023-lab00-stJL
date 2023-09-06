@@ -4,3 +4,4 @@
 *Instructor:* B. Karchewski 
 *Author:* Ji Li
 An example repository setup for a simple Python package
+just for test
